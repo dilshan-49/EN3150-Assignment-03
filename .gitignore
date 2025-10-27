@@ -1,4 +1,5 @@
 /realwaste-main
+/test_dataset
 .vscode/
 /models
 model_test.ipynb
