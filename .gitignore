@@ -2,3 +2,4 @@
 .vscode/
 /models
 model_test.ipynb
+*.zip
